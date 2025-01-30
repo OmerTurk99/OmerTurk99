@@ -9,4 +9,4 @@ Yeni mezun yazılım geliştiricisi olarak, güçlü bir problem çözme yetene�
 - Unity
   
 ## 📫 İletişim
-- [LinkedIn]([link](https://www.linkedin.com/in/%C3%B6mer-t%C3%BCrk-a1a87732a/))
+- [LinkedIn]([[link](https://www.linkedin.com/in/%C3%B6mer-t%C3%BCrk-a1a87732a)]
